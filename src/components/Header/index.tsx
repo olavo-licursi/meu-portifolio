@@ -3,7 +3,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { Container } from './styles';
 
-import logoImg from '../../assets/meu-logo.png';
+import logoImg from '../../assets/meu_logo.png';
 
 const Header: React.FC = () => {
   return (

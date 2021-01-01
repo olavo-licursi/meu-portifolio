@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const Container = styled.header`
   display: flex;
-  height: auto;
+  max-height: 150px;
   justify-content: space-between;
 
   div {
