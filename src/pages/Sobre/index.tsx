@@ -24,8 +24,8 @@ const Sobre: React.FC = () => {
               {' '}
               Câmara Municipal de Monte Alto{' '}
             </a>
-            em 2017 como Monitor de Laboratório de informática. Em 2018
-            ingressou na
+            em 2017 como Monitor de Laboratório de informática. Em 2018 entrou
+            na
             <a href="http://www.smarapd.com.br/"> SMARAPD </a>
             para trabalhar como Analista de Suporte, qual saiu com grande
             habilidade em suporte técnico, comunicação e trabalho em equipe.
