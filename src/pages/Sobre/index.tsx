@@ -29,9 +29,9 @@ const Sobre: React.FC = () => {
             <a href="http://www.smarapd.com.br/"> SMARAPD </a>
             para trabalhar como Analista de Suporte, qual saiu com grande
             habilidade em suporte técnico, comunicação e trabalho em equipe.
-            Atualmente busca novos desafios como desenvolvedor Freelancer,
-            trabalhando com projetos das mais diversas formas, como Websites,
-            Aplicativos e Sistemas.
+            Atualmente busca novos desafios como desenvolvedor, trabalhando com
+            projetos das mais diversas formas, como Websites, Aplicativos e
+            Sistemas.
           </p>
           <p>Monte Alto - SP</p>
         </Container>
