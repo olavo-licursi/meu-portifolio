@@ -18,6 +18,11 @@ export const Container = styled.div`
     font-size: 25px;
     color: #1c1c1c;
     margin-bottom: 10px;
+    transition: opacity 0.2s;
+
+    &:hover {
+      opacity: 0.6;
+    }
   }
 
   p {

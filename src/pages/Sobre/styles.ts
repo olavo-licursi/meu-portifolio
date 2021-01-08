@@ -53,7 +53,7 @@ export const Imagem = styled.div`
 
     border-radius: 90px;
     border: 10px solid;
-    border-color: #6495ed;
+    border-color: black;
     background-color: #aaa;
     max-height: 500px;
   }

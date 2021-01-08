@@ -11,19 +11,16 @@ export const Container = styled.header`
     width: 620px;
     display: flex;
     align-items: center;
-    background: #e8e8e8;
-    border-radius: 10px;
+    background: black;
+    border-radius: 0px;
+    border-right: 0;
     border: 3px solid #232129;
-    border-color: #00008b;
     padding: 15px;
 
     a {
-      color: #1c1c1c;
+      color: white;
       padding: 10px;
       padding-right: 20px;
-      border-radius: 10px;
-      border-right: 3px solid;
-      border-color: #00008b;
       font-weight: bold;
       font-size: 25px;
       text-decoration: none;
